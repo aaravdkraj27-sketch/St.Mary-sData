@@ -1,0 +1,6 @@
+{
+  "name": "St. Mary's Class Monitor Management System",
+  "description": "Custom Class Monitor Management System for St. Mary's School, Dwarka featuring roster management, duty checklists, and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
